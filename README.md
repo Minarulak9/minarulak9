@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [commingsoon](commingsoon)
+- 👨‍💻 Portfolio [Open](https://minarulak.site)
 
 - 💬 Ask me about **JavaScript**
 
