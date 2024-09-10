@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 Portfolio [Open](https://minarulak.site)
+- 👨‍💻 [Portfolio](https://minarulak.site)
 
 - 💬 Ask me about **JavaScript**
 
