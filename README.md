@@ -5,13 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minarulak9" alt="minarulak9" /></a> </p>-->
 
-- 🔭 I’m currently working on **Indomitech Group**
+- 🔭 Currently working at **Indomitech Group**
 
-- 🌱 I’m currently learning **Reactjs,NodeJs and other backend technology**
+- 🌱 Currently learning **Reactjs,NodeJs and other backend technology**
 
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 🤝 I’m looking for help with **Backend Development**
+- 👯 Looking to collaborate on **Web Development**
 
 - 👨‍💻 [Portfolio](https://minarulak.site)
 
