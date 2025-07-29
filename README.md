@@ -23,4 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minarulak9&show_icons=true&locale=en&layout=compact" alt="minarulak9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minarulak9&show_icons=true&locale=en" alt="minarulak9" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravbag09&show_icons=true&theme=tokyonight" alt="Sourav's GitHub Stats" height="180"/>
+</p>
 
