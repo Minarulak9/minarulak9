@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minarulak9&label=Profile%20views&color=0e75b6&style=flat" alt="minarulak9" /> </p>
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minarulak9&theme=tokyonight" alt="minarulak9" /></a> </p>
-- 🌱 Current Status **MERN, AWS, Building Real World Projects**
+
+-🌱 Current Status **MERN, AWS, Building Real World Projects**
 
 - 👯 Looking to collaborate on **Solving Real World Problem**
 
