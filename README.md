@@ -9,7 +9,7 @@
 
 - 👯 Looking to collaborate on **Solving Real World Problem**
 
-- 👨‍💻 [Portfolio](https://minarulak.site)
+- 👨‍💻 [Portfolio](https://minarulak.in)
 
 - 📫 How to reach me **minarulh34@gmail.com**
 
